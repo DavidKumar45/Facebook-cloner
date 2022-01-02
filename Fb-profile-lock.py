@@ -17,8 +17,8 @@ logo1 = """
     |_______ \____/ \___  >__|_ \ |__|   |___  /
             \/          \/     \/            \/ 
  [*] ----------------------------------------------
- [*] Gitbub      : https://github.com/Yayan-XD
- [*] Facebook    : https://www.facebook.com/KM39453
+ [*] Gitbub      : https://github.com/DavidKumar45
+ [*] Facebook    : https://www.facebook.com/profile.php?id=100063716716333
  [*] ----------------------------------------------\n"""% (m,h,m,p)
 def aahh(s):
     for c in s + '\n':
@@ -77,8 +77,8 @@ def main():
     |_______ \____/ \___  >__|_ \ |__|   |___  /
             \/          \/     \/            \/ 
  [*] ----------------------------------------------
- [*] Gitbub      : https://github.com/Yayan-XD
- [*] Facebook    : https://www.facebook.com/KM39453
+ [*] Gitbub      : https://github.com/DavidKumar45
+ [*] Facebook    : https://www.facebook.com/profile.php?id=100063716716333
  [*] ----------------------------------------------\n"""% (m,h,m,p)
 	print(logo)
 	print("     %s     [ %sYour Facebook Login Cookies %s]" % (k,h,k) )
